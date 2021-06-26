@@ -3,7 +3,7 @@
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "^26.4.2",
-    "jest-each": "^26.4.2"
+    "jest": "^27.0.5",
+    "jest-each": "^27.0.2"
   }
 }
