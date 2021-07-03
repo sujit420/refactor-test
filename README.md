@@ -13,3 +13,7 @@ Refactor the class "TennisGame1". You should use the language that's most famili
 1. Send us the link to your repo. Please make it private and give access to WayLit organization
 
 The test suite provided is fairly comprehensive, and fast to run. You should not need to change the tests, only run them often as you refactor.
+
+# What I have done
+I have done TDD here. I read rules about the game and followed TDD based approach for development.
+score() method was refactored and put in a more readable format.
